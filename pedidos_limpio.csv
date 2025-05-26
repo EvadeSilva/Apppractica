@@ -1,0 +1,67 @@
+FECHA,CATEGORÍA,CLIENTE,TALLA,COLOR,DISEÑO,PROVEEDOR 1,MATERIAL,ENVÍO,PROVEEDOR 2,ESTAMPADO,ENVÍO DISEÑO A TALLER,ENVÍO A CLIENTE,PRECIO DE VENTA,DESTINO,ESTADO,TOTAL,OBSERVACIONES
+,Polo,,S,Blanco,,,22.0,,SubliFLOWER,4.5,7.5,0.0,49.0,PAGADO (Deposito a Interbank desde BCP Zahid),Cancelado,49.0,
+,Polo,,M,Blanco,,,22.0,,SubliFLOWER,4.5,7.5,0.0,49.0,PAGADO (Depósito a Interbank desde BCP Zahid),Cancelado,49.0,
+2024-09-22,Polo,,S,Negro,,,,,JASOFT,5.1,1.6,9.36,49.0,,,49.0,Olva
+2024-09-22,Polo,,S,Negro,,,,,JASOFT,5.1,1.6,9.36,49.0,,,49.0,Olva
+2024-09-22,Polo,,S,Blanco,,,,,JASOFT,5.1,1.6,9.36,49.0,,,49.0,Olva
+2024-09-26,Polo,,,Negro,,,22.0,,JASOFT,5.1,,,,,No pagado,0.0,INFLUENCER SIN COSTO
+2024-09-29,Polo,,S,Blanco,,,19.0,,JASOFT,5.1,1.6,,49.0,,Cancelado,,
+2024-09-29,Polo,,M,Blanco,,,19.0,,JASOFT,5.1,1.6,,49.0,,Cancelado,,
+2024-09-29,Polo,,M,Blanco,,,19.0,,JASOFT,5.1,1.6,,49.0,,,,
+2024-09-29,Polo,,M,Negro,,,19.0,,,,,,49.0,,,,
+2024-10-17,Polo,,XL,Negro,Slipknot,,,,,,,,49.0,,,,
+2024-10-17,Polo,,XL,Negro,Slipknot,,,,,,,,49.0,,,,
+2024-10-19,Polo,,XL,Negro,Normal,,,,,,,,49.0,,,,
+2024-10-19,Polo,,L,Negro,GHOSH,,,,,,,,,,,,
+2024-10-29,Polo,,XL,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,XL,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,XL,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,M,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,L,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,L,Negro,Slipknot,,,,,,,,25.0,A César,,,
+2024-10-29,Polo,,M,Negro,SIN DISEÑO,,,,,,,,0.0,Mariecela,,,
+2024-11-05,Polo,,M,Negro,Fundación ,,,,,,,,49.0,Pagado,,,
+2024-11-05,Polo,,L,Negro,Ghost,,,,,,,,47.3,,,,
+2024-11-05,Polo,,L,Negro,Ghost,,,,,,,,47.3,,,,
+2024-11-05,Polo,,L,Negro,Ghost,,,,,,,,47.3,,,,
+2024-11-08,Polera,,S,Beige,,,45.0,,Sublitop,,,,80.0,Yape,Cancelado,80.0,
+,Polera,,S,Salmon,,,45.0,,Sublitop,,,,80.0,Yape,,80.0,
+,Polera,,M,Negro,,,45.0,,Sublitop,,,,80.0,Yape,,80.0,
+,Polera,,M,Beige,,,45.0,,Sublitop,,,,80.0,Yape,,80.0,
+,Polera,,L,Rojo,,,45.0,,Sublitop,,,,80.0,,,,
+,Polo,,L,Rojo,,,19.0,,,,,,,,,,
+,Polo,,L,Plomo,,,45.0,,Sublitop,,,,60.0,Yape,,60.0,
+,Polera,,L,Plomo,,,45.0,,Sublitop,,,,80.0,Yape,,80.0,
+,Polo,,L,Negro,Kiss,,19.0,,Sublitop,,,,49.0,,,,
+,Polo,,L,Negro,Ghost,,19.0,,Sublitop,,,,49.0,,,,
+,Polo,,L,Negro,Ghost,,19.0,,Sublitop,,,,49.0,,,,
+,Polo,,L,Negro,KISS,,19.0,,Sublitop,6.4,10.0,,49.0,,,,dinsides
+,Polo,,L,Negro,KISS NAVIDAD,,19.0,,Sublitop,6.4,10.0,,49.0,,,,dinsides
+,Polo,,L,Plomo,WHITESNAKE,,20.0,5.0,Sublitop,6.4,10.0,,49.0,,,,dinsides
+,Polo,,L,Negro,Snoopy,,19.0,,Sublitop,6.4,10.0,,49.0,,,,dinsides
+,Polo,,L,Negro,garfield,,19.0,,Sublitop,6.4,10.0,,49.0,,,,dinsides
+,Polo,,L,Negro,buzo  ballena,,19.0,,Sublitop,6.4,10.0,,49.0,,,,dinsides
+2025-01-20,Polo,Roberto Pinna,L,Negro,KISS AT 50,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,,No pagado,,
+2025-01-20,Polo,Roberto Pinna,L,Negro,KISS BLANCO Y NEGRO,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,,No pagado,,
+2025-01-20,Polo,Roberto Pinna,L,Negro,KISS ROJO,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,,No pagado,,
+2025-01-20,Polo,Roberto Pinna,L,Negro,HARD ROCK CAFE ROMA,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,,Cancelado,49.0,
+2025-01-20,Polo,Roberto Pinna,L,Azul marino,HARD ROCK CAFE PARIS,Salmos,22.0,,Sublitop,4.1,0.4,,62.0,Yape Eva,Cancelado,58.0,
+2025-01-20,Polo,Delcy gonzales,M,Negro,,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,Yape Eva,Cancelado,47.5,Descuento de 1.50soles
+2025-01-20,Polo,Delcy gonzales,M,Negro,,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,Yape Eva,Cancelado,47.5,Descuento de 1.50soles
+2025-01-20,Polo,Roberto Pinna,L,Blanco,HARD ROCK CAFE MADRID,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,Yape Eva,Cancelado,49.0,
+2025-01-20,Polo,Roberto Pinna,L,Negro,HARD ROCK CAFE LONDON,Salmos,19.0,,Sublitop,4.1,0.4,,49.0,Yape Eva,Cancelado,49.0,
+2025-03-10,Polo,Roberto Pinna,L,Negro,Quiet Riot,Salmos,19.0,,Sublitop,7.25,12.0,,,Plin Eva,Cancelado,49.0,
+2025-03-10,Polo,Roberto Pinna,L,Negro,Ghost skeleta album,Salmos,19.0,,SubliFLOWER,7.25,12.0,,,Plin Eva,Cancelado,49.0,
+2025-03-10,Polo,Roberto Pinna,L,Negro,Kiss,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-03-10,Polo,Roberto Pinna,L,Negro,Kiss,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-03-10,Polo,Roberto Pinna,L,Negro,Kiss,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-04-11,polo,Roberto Pinna,L,Negro,Kiss Rock Gods,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-04-11,Polo,Roberto Pinna,L,Negro,Kiss Dinasty,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-04-11,Polo,Roberto Pinna,L,Negro,Kiss caras,,,,,,,,,Plin Eva,Cancelado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Blanco,Kiss rostro polo blanco el gato,Salmos,19.0,,Sublitop,3.35,15.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Blanco,Kiss rostro polo blanco el demon,Salmos,19.0,,Sublitop,3.35,15.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Negro,Kiss demon azul,Salmos,19.0,,Sublitop,3.35,15.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Blanco,Stray Cats para polo blanco,Salmos,19.0,,Sublitop,3.35,15.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Negro,Stray Cats para polo negro,Salmos,19.0,,Sublitop,4.5,12.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Negro,Deep Purple Stormbringer,Salmos,19.0,,Sublitop,4.5,12.0,8.35,49.0,,No pagado,49.0,
+2025-05-07,Polo,Roberto Pinna,L,Rojo,Slade Alive,Salmos,20.0,10.0,Sublitop,4.5,12.0,8.35,65.0,,No pagado,65.0,
